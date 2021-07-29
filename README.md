@@ -1,0 +1,2 @@
+# PrviFolder
+Vezba1GIT
